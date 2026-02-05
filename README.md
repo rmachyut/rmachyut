@@ -28,7 +28,7 @@ I recently graduated from the University of Gothenburg. I have an engineering ba
 
 **Games and projects I have worked on**
 
-* [Memento Mori] 
+* [Memento Mori] (https://sp-ike.itch.io/memento-mori)
 * Rush Hour
 * Tanks!
 * RoboRat
