@@ -32,12 +32,12 @@ I recently graduated from the University of Gothenburg with a Master's Degree in
 
 |Traffic Jam|RoboRat|
 |-|-|
-|<img src="assets/TJ1.png" title="Traffic Jam" width="450px" /> <br>A visual novel style narrative driven [game](https://erdandrej.itch.io/traffic-jam). Strike up conversations <br> and learn about other people before the traffic lets up. <br>I did the art and design and drew the assets.  <br> <br>| <img src="assets/roborat2.png" title="Roborat" width="450px" /> <br> One of my [earliest games](https://github.com/TanmayGU/2D-Roborat). A 2D side scrolling platformer with <br> combat and a teleportation mechanic. I was primarily the level <br> designer and assisted with the gameplay mechanics (combat, <br> movement and teleportation) and asset creation.|
+|<img src="assets/TJ1.png" title="Traffic Jam" width="450px" /> <br>A visual novel style narrative driven [game](https://erdandrej.itch.io/traffic-jam). Strike up <br> conversations and learn about other people before the <br> traffic lets up. I did the art and design and drew <br> the assets.  <br> <br>| <img src="assets/roborat2.png" title="Roborat" width="450px" /> <br> One of my [earliest games](https://github.com/TanmayGU/2D-Roborat). A 2D side scrolling platformer with <br> combat and a teleportation mechanic. I was primarily the level <br> designer and assisted with the gameplay mechanics (combat, <br> movement and teleportation) and asset creation.|
 
 
 |Music Player Webapp|DriverForever|
 |-|:-:|
-|<img src="assets/music player login.png" title="Music Player Webapp" width="450px" /> <br><br><br> A [music player webapp](https://git.chalmers.se/magnusad/musicplayer) which uses Spotify's API to search and play <br> music and playlists. Made with ReactJS. |<a href="https://github.com/rmachyut/rmachyut/blob/main/assets/DF%20video.mp4"><img src="assets/df screen.png" width="200px"></a> <br> A [project](https://github.com/TanmayGU/DriverForever) experimenting with AR. It is an endless runner with <br> a unique voice control feature that causes the pitch to change <br> the shape of the car. |
+|<img src="assets/music player login.png" title="Music Player Webapp" width="450px" /> <br><br><br> A [music player webapp](https://git.chalmers.se/magnusad/musicplayer) which uses Spotify's API to search and play <br> music and playlists. Made with ReactJS. |<a href="https://github.com/rmachyut/rmachyut/blob/main/assets/DF%20video.mp4"><img src="assets/df screen.png" width="200px"></a> <br> A [project](https://github.com/TanmayGU/DriverForever) experimenting with AR. It is an endless runner <br> with a unique voice control feature that causes the pitch to change <br> the shape of the car. |
 
 
 
