@@ -22,18 +22,8 @@ I recently graduated from the University of Gothenburg with a Master's Degree in
 </p>
                   
 
-**Socials**
-                
-<p align="left"> <a href="https://www.github.com/rmachyut" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://git.chalmers.se/achyutm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.linkedin.com/in/achyut-madhavan-4a5507301/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/achyut_rm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-
 **Games and projects I have worked on**
-
-* Memento Mori @ https://sp-ike.itch.io/memento-mori
-* Rush Hour @ https://erdandrej.itch.io/traffic-jam
-* Tanks! @ https://github.com/rmachyut/GameTanks
-* RoboRat @ https://github.com/TanmayGU/2D-Roborat
-* Driver Forever @ https://github.com/TanmayGU/DriverForever
-* A music player webapp @ https://git.chalmers.se/magnusad/musicplayer
+--------------------------
 
 |Memento Mori|Tanks!|
 |-|-|
@@ -49,5 +39,10 @@ I recently graduated from the University of Gothenburg with a Master's Degree in
 |-|:-:|
 |<img src="assets/music player login.png" title="Music Player Webapp" width="450px" /> <br><br><br> A [music player webapp](https://git.chalmers.se/magnusad/musicplayer) which uses Spotify's API to search and play <br> music and playlists. Made with ReactJS. |<a href="https://github.com/rmachyut/rmachyut/blob/main/assets/DF%20video.mp4"><img src="assets/df screen.png" width="200px"></a> <br> A [project](https://github.com/TanmayGU/DriverForever) experimenting with AR. It is an endless runner with <br> a unique voice control feature that causes the pitch to change <br> the shape of the car. |
 
+
+
+**Socials**
+                
+<p align="left"> <a href="https://www.github.com/rmachyut" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://git.chalmers.se/achyutm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.linkedin.com/in/achyut-madhavan-4a5507301/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/achyut_rm" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
 
 
