@@ -37,7 +37,7 @@ I recently graduated from the University of Gothenburg with a Master's Degree in
 
 |Music Player Webapp|DriverForever|
 |-|:-:|
-|<img src="assets/music player login.png" title="Music Player Webapp" width="400px" /> <br><br><br> A [music player webapp](https://git.chalmers.se/magnusad/musicplayer) which uses Spotify's API to search and play <br> music and playlists. Made with ReactJS. |<a href="https://github.com/rmachyut/rmachyut/blob/main/assets/DF%20video.mp4"><img src="assets/df screen.png" width="200px"></a> <br> A [project](https://github.com/TanmayGU/DriverForever) experimenting with AR. It is an endless runner <br> with a unique voice control feature that causes the pitch <br> to change the shape of the car. |
+|<img src="assets/music player login.png" title="Music Player Webapp" width="400px" /> <br><br><br> A [proof of concept](https://git.chalmers.se/magnusad/musicplayer) which uses Spotify's API to search and play <br> music and playlists. Made with ReactJS and is locally hosted. |<a href="https://github.com/rmachyut/rmachyut/blob/main/assets/DF%20video.mp4"><img src="assets/df screen.png" width="200px"></a> <br> A [project](https://github.com/TanmayGU/DriverForever) experimenting with AR. It is an endless runner <br> with a unique voice control feature that causes the pitch <br> to change the shape of the car. |
 
 
 
