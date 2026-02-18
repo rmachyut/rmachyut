@@ -29,11 +29,16 @@ I recently graduated from the University of Gothenburg. I have an engineering ba
 **Games and projects I have worked on**
 
 * Memento Mori @ https://sp-ike.itch.io/memento-mori
-  ![Memento Mori Title Screen](assets/MM Title.PNG "MM title")
-![MM](assets/MM Title.PNG "MM")
 * Rush Hour @ https://erdandrej.itch.io/traffic-jam
 * Tanks! @ https://github.com/rmachyut/GameTanks
 * RoboRat @ https://github.com/TanmayGU/2D-Roborat
 * Driver Forever @ https://github.com/TanmayGU/DriverForever
 * A music player webapp @ https://git.chalmers.se/magnusad/musicplayer
+
+
+<p>
+  <a>
+    <img src="assets/MM Title.PNG" title="MM" width="400"/>
+  </a>
+</p>
 
